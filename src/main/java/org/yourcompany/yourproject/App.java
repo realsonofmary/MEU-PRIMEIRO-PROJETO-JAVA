@@ -8,7 +8,7 @@ package org.yourcompany.yourproject;
  *
  * @author sonofjesus
  */
-public class MEUPRIMEIROPROJETOJAVA {
+public class App {
 
     public static void main(String[] args) {
         System.out.println("Boas vindas, time turma DIO");
